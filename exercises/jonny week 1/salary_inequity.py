@@ -1,4 +1,4 @@
-# 5/7/2024 - Jonny exercise 1 - Fizz Buzz Sum
+# 5/7/2024 - Jonny exercise 2 - Salary Inequity
 # Given a list of salaries, we'll define a metric called inequity which is the difference between max and min salary seen in the list:
 # inequity = max(input_list) - min(input_list)
 # Write a function called min_inequity which takes in a list of salaries, and a value n, and returns the minimum inequity possible when taking n salaries from the full salary list.

@@ -1,4 +1,4 @@
-
+-- 5/7/2024 - Jonny exercise 3 - Teams Power Users
 --Write a query to identify the top 2 power users who sent the hgihest number of messages on Microsoft Teams in August 2022.
 --Display the IDs of these 2 users along with the total number of messages they sent. Output the results in descending order based on the count of the messages.
 
